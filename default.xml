@@ -13,7 +13,7 @@
   </project>
   <project path="manifest" name="miui-v6/patchrom" />
   <project path="android" name="miui-v6/patchrom_android" />
-  <project path="i9100" name="miui-v6/patchrom-gnote-CM" />
+  <project path="gnote" name="miui-v6/patchrom-gnote-CM" />
   <project path="tools" name="miui-v6/patchrom_tools" />
   <project path="miui" name="miui-v6/patchrom_miui" />
   
