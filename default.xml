@@ -15,8 +15,8 @@
   <project path="android" name="miui-v6/patchrom_android" />
   <project path="gnote" name="miui-v6/patchrom-gnote-CM" />
   <project path="mO" name="miui-v6/patchrom_m0" />
-  <project path="gnote-v" name="miui-v6/patchrom-gnote" />
-  <!--project path="aosp" name="miui-v6/patchrom-gnote-AOSP"-->
+  <!--project path="gnote-v" name="miui-v6/patchrom-gnote"-->
+  <project path="aosp" name="miui-v6/patchrom-gnote-AOSP" />
   <project path="tools" name="miui-v6/patchrom_tools" />
   <project path="miui" name="miui-v6/patchrom_miui" />
 
