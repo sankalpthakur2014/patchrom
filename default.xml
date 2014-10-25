@@ -8,7 +8,7 @@
            remote="github"
            sync-j="4" />
 
-  <project path="build" name="miui-v6/patchrom_build" revision="jellybean" >
+  <project path="build" name="miui-v6/patchrom_build">
     <copyfile src="makefile" dest="Makefile" />
   </project>
   <project path="manifest" name="miui-v6/patchrom" />
