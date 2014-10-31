@@ -13,5 +13,6 @@
 <project path="manifest" name="miui-v6/patchrom" />
 <project path="android" name="miui-v6/patchrom_android" />
 <project path="gnote" name="miui-v6/patchrom-gnote-CM" revision="kitkat" />
+<project path="miui" name="miui-v6/patchrom_miui" />
 <project path="tools" name="miui-v6/patchrom_tools" revision="jellybean" />
  </manifest>
