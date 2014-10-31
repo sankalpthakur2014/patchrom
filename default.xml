@@ -5,12 +5,12 @@
           remote="github"
               sync-j="4" />
 
-<project path="build" name="miui-v6patchrom_build" revision="jellybean" >
+<project path="build" name="miui-v6/patchrom_build" revision="jellybean" >
 <copyfile src="makefile" dest="Makefile" />
 </project>
-<project path="manifest" name="miui-v6patchrom" />
-<project path="android" name="miui-v6patchrom_android" />
+<project path="manifest" name="miui-v6/patchrom" />
+<project path="android" name="miui-v6/patchrom_android" />
 <project path="gnote" name="miui-v6/patchrom-gnote-CM" />
-<project path="miui" name="miui-v6patchrom_miui" />
-<project path="tools" name="miui-v6patchrom_tools" revision="jellybean" />
+<project path="miui" name="miui-v6/patchrom_miui" />
+<project path="tools" name="miui-v6/patchrom_tools" revision="jellybean" />
  </manifest>
